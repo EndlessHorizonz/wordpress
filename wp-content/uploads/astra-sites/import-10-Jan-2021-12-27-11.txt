@@ -1,0 +1,146 @@
+
+Deleted - Post ID 351 - attachment - co-working-receptionist
+Deleted - Post ID 551 - attachment - gallery1-free-img.jpg
+Deleted - Post ID 552 - attachment - gallery3-free-img.jpg
+Deleted - Post ID 650 - attachment - theworkplace-logo-dark
+Deleted - Post ID 645 - attachment - theworkplace-logo-light
+Deleted - Post ID 553 - attachment - gallery4-free-img.jpg
+Deleted - Post ID 673 - attachment - bg-blob-gradient
+Deleted - Post ID 677 - attachment - blob-grad
+Deleted - Post ID 796 - attachment - dots
+Deleted - Post ID 950 - attachment - people-inside-room
+Deleted - Post ID 1066 - attachment - co-working-space-social
+Deleted - Post ID 1068 - nav_menu_item - 
+Deleted - Post ID 16 - nav_menu_item - 
+Deleted - Post ID 1067 - attachment - favicon-free-img
+Deleted - Post ID 34 - custom_css - astra
+Deleted - Post ID 18 - nav_menu_item - 
+Deleted - Post ID 19 - nav_menu_item - 
+Deleted - Post ID 1069 - elementor-hf - Footer
+Deleted - Post ID 1089 - attachment - furniture
+Deleted - Post ID 532 - elementor_library - Default Kit
+Deleted - Post ID 1087 - attachment - hero-bg-01
+Deleted - Post ID 1090 - attachment - writing-notepad
+Deleted - Post ID 1100 - attachment - aminities-bg
+Deleted - Post ID 1098 - attachment - about-1
+Deleted - Post ID 1101 - attachment - work-floor
+Deleted - Post ID 1144 - attachment - theworkplace-logo-dark
+Deleted - Post ID 1102 - attachment - full-kitchen
+Deleted - Post ID 1103 - attachment - conf-room
+Deleted - Post ID 1135 - elementor_library - Services
+Deleted - Post ID 1137 - page - About Us
+Deleted - Post ID 2 - page - Home
+Deleted - Post ID 1139 - page - Contact
+Deleted - Post ID 1141 - page - Amenities
+Deleted - Post ID 14 - page - Pricing
+Deleted - Post ID 20 -  - 
+Deleted - Post ID 1182 - attachment - green-leafed-trees-during-fog-time-167684.jpg
+Deleted - Post ID 1179 - attachment - 1-4.png
+Deleted - Post ID 1180 - elementor_library - Footer
+Deleted - Post ID 1183 - attachment - snowy-mountain-1287145.jpg
+Deleted - Post ID 1184 - attachment - photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg
+Deleted - Post ID 1187 - attachment - bird-s-eye-view-photography-of-green-forest-1208379.jpg
+Deleted - Post ID 103 - attachment - customer1
+Deleted - Post ID 1185 - attachment - fogs-on-green-mountain-1054222.jpg
+Deleted - Post ID 1186 - attachment - green-grass-field-and-mountain-1034887.jpg
+Deleted - Post ID 104 - attachment - customer2
+Deleted - Post ID 205 - attachment - logo1
+Deleted - Post ID 105 - attachment - customer3
+Deleted - Post ID 206 - attachment - logo1@2x
+Deleted - Post ID 108 - attachment - customer4
+Deleted - Post ID 208 - attachment - logo1-dark@2x
+Deleted - Post ID 207 - attachment - logo1-dark
+Deleted - Post ID 209 - attachment - favicon
+Deleted - Post ID 212 - attachment - demo-screenshot
+Deleted - Post ID 1189 - elementor-hf - Site Footer
+Deleted - Post ID 1190 - elementor_library - Services
+Deleted - Post ID 21 - elementor_library - Home
+Deleted - Post ID 24 - elementor_library - Contact
+Deleted - Post ID 30 - page - Home
+Deleted - Post ID 1193 - page - About
+Deleted - Post ID 1191 - elementor_library - About
+Deleted - Post ID 33 - page - Contact
+Deleted - Post ID 32 - page - Services
+Deleted - Post ID 1197 - elementor_library - Default Kit
+Deleted - Post ID 1198 -  - 
+Deleted - Post ID 1199 -  - 
+Deleted - Post ID 1200 -  - 
+Deleted - Post ID 1201 - attachment - logo1
+Deleted - Post ID 227 -  - 
+Inserted WP Form 1267
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#8e91aa","link-color":"#e65644","theme-color":"#e65644","link-h-color":"#000422","footer-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"","footer-link-color":"","footer-link-h-color":"","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#e65644","button-bg-h-color":"#000422","theme-button-padding":{"desktop":{"top":"14","right":"32","bottom":"14","left":"32"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":4,"theme-button-border-group-border-size":{"top":"1","right":"1","bottom":"1","left":"1"},"footer-sml-layout":"footer-sml-layout-1","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]","footer-sml-section-2":"","footer-sml-section-2-credit":"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]","footer-sml-dist-equal-align":true,"footer-sml-divider":1,"footer-sml-divider-color":"#7a7a7a","footer-layout-width":"content","ast-header-retina-logo":"","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"","tablet":"104","mobile":"104"},"display-site-title":false,"display-site-tagline":0,"logo-title-inline":1,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"button","header-display-outside-menu":false,"header-main-rt-section-html":"<button>Contact Us<\/button>","header-main-rt-section-button-text":"Get a Free Estimate","header-main-rt-section-button-link":"https:\/\/www.wpastra.com","header-main-rt-section-button-link-option":{"url":"#","new_tab":"","link_rel":""},"header-main-rt-section-button-style":"custom-button","header-main-rt-section-button-text-color":"#ffffff","header-main-rt-section-button-back-color":"rgba(255,255,255,0)","header-main-rt-section-button-text-h-color":"#000422","header-main-rt-section-button-back-h-color":"#ffffff","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"1","right":"1","bottom":"1","left":"1"},"header-main-sep":1,"header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":false,"primary-submenu-b-color":"","primary-submenu-item-b-color":"","primary-header-button-font-family":"inherit","primary-header-button-font-weight":"500","primary-header-button-font-size":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"primary-header-button-text-transform":"","primary-header-button-line-height":1,"primary-header-button-letter-spacing":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"fade","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"}},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Roboto', sans-serif","body-font-variant":"400,500","body-font-weight":"400","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","para-margin-bottom":"1","body-text-transform":"","headings-font-family":"'Work Sans', sans-serif","headings-font-weight":"600","headings-text-transform":"capitalize","headings-line-height":"1.1","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"64","tablet":"56","mobile":"32","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"48","tablet":"32","mobile":"24","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"32","tablet":"24","mobile":"22","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"24","tablet":"","mobile":"20","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"14","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":1,"mobile-header-toggle-target":"icon","transparent-header-logo":"","transparent-header-retina-logo":"","different-transparent-logo":0,"different-transparent-retina-logo":0,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"both","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"rgba(255,255,255,0.72)","tablet":"#181e19","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"#e65644","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"inherit","font-weight-h1":"inherit","text-transform-h1":"","line-height-h1":"","font-family-h2":"inherit","font-weight-h2":"inherit","text-transform-h2":"","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"inherit","text-transform-h3":"","line-height-h3":"","font-weight-button":"500","font-family-button":"inherit","font-size-button":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":1,"theme-btn-letter-spacing":".5","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.6.4","is_astra_addon_queue_running":false,"theme-auto-version":"2.5.5","is_theme_queue_running":false,"_astra_pb_compatibility_completed":true,"headings-font-variant":"600","heading-base-color":"#000422","theme-button-border-group-border-color":"#e65644","theme-button-border-group-border-h-color":"#000422","header-main-rt-section-button-border-color":"#ffffff","header-main-rt-section-button-border-h-color":"#ffffff"},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/650/wxr.xml
+Inserted - Term 12 - {"term_id":12,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":12,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 1269 - attachment - attab-logo-symbol
+Inserted - Post 18 - attachment - attab logo white
+Inserted - Post 1270 - attachment - long-arrow-alt-right-solid
+Inserted - Post 1271 - attachment - commercial-roofing-card
+Inserted - Post 1272 - attachment - attab-symbol-bg
+Inserted - Post 1273 - attachment - roofing-quote-section-bg
+Inserted - Post 1274 - attachment - roofing-featured-client-photo
+Inserted - Post 1275 - attachment - client-logo-1
+Inserted - Post 1276 - attachment - client-logo-2
+Inserted - Post 1277 - attachment - client-logo-3
+Inserted - Post 1278 - attachment - client-logo-4
+Inserted - Post 1279 - attachment - attab logo symbol cta bg
+Inserted - Post 104 - attachment - roofing-service-hero-bg
+Inserted - Post 109 - attachment - after-storm-damage-card
+Inserted - Post 110 - attachment - residential-roofing-card
+Inserted - Post 111 - attachment - finance-and-insurance-card
+Inserted - Post 123 - attachment - logo-symbol-inner-page-bg
+Inserted - Post 125 - attachment - roofing-about-us-header-bg
+Inserted - Post 126 - attachment - roofing-professional-workers
+Inserted - Post 132 - attachment - roofing-about-us-video-bg
+Inserted - Post 5 - elementor_library - Default Kit
+Inserted - Post 7 - page - Home
+Inserted - Post 1281 - elementor-hf - Footer
+Inserted - Post 149 - attachment - roofing-services-header-bg
+Inserted - Post 153 - attachment - roofing-service-commercial
+Inserted - Post 154 - attachment - roofing-service-residential
+Inserted - Post 164 - attachment - roofing-featured-project
+Inserted - Post 187 - attachment - roofing-client-2
+Inserted - Post 188 - attachment - roofing-client-3
+Inserted - Post 189 - attachment - roofing-client-1
+Inserted - Post 196 - attachment - after-strom-roof-repair
+Inserted - Post 197 - attachment - comercial-skylight-install
+Inserted - Post 201 - nav_menu_item - 
+Inserted - Post 202 - nav_menu_item - 
+Inserted - Post 203 - nav_menu_item - 
+Inserted - Post 204 - nav_menu_item - 
+Inserted - Post 205 - nav_menu_item - 
+Inserted - Post 216 - attachment - roofing-project-header-bg
+Inserted - Post 218 - attachment - roofing-contact-us-header-bg
+Inserted - Post 292 - attachment - roofing-services-social-img
+Inserted - Post 119 - page - About Us
+Inserted - Post 147 - page - Services
+Inserted - Post 162 - page - Projects
+Inserted - Post 169 - page - Contact Us
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/roofing-services-02\/wp-content\/uploads\/sites\/650\/2020\/08\/attab-logo-white.png","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff","9":"#181E19","10":"#DBDDEE","11":"#E65644","12":"#8E91AA","13":"#F8F8FB","14":"#000422","15":"#00052F"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":"","elementor_active_kit":"5","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 1286 - attachment - attab-logo-white
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'CRYSTAL CLEAR ' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "169"
+---- Processing WordPress Page - for Elementor ---- "162"
+---- Processing WordPress Page - for Elementor ---- "147"
+---- Processing WordPress Page - for Elementor ---- "119"
+---- Processing WordPress Page - for Elementor ---- "1281"
+---- Processing WordPress Page - for Elementor ---- "7"
+---- Processing WordPress Page - for Elementor ---- "5"
+---- Processing WordPress Page - for Elementor ---- "1197"
+---- Processing MISC ----
+Post ID: 1282
+Post ID: 1284
+Post ID: 1283
+Post ID: 1285
+Post ID: 1280
+Post ID: 39
+Post ID: 36
+Post ID: 37
+Post ID: 38
+Post ID: 27
+Batch Process Complete!
